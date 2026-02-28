@@ -9,18 +9,13 @@ title: false
     <h1 class="text-3xl font-semibold tracking-tight mb-4">Hey, I'm <span class="text-[#2F9FD0]">Zach</span>.</h1>
     <div class="text-gray-600 leading-relaxed space-y-4 max-w-prose">
         <p>
-            I'm a software developer based somewhere with good coffee. I build things for the web,
-            think about code quality, and occasionally write about what I'm learning.
-        </p>
-        <p>
-            Currently working on interesting problems. Always happy to chat about software,
-            side projects, or anything else.
+            I'm a software developer based in Chiba, Japan. I build things for the web,
+            think about code quality, explore how LLMs and AI are changing the way we do software,
+            and occasionally write about what I'm learning.
         </p>
     </div>
     <div class="mt-8 flex gap-4 text-sm">
-        <a href="https://github.com" class="text-[#2F9FD0] hover:underline">GitHub</a>
-        <span class="text-gray-300">/</span>
-        <a href="mailto:hello@example.com" class="text-[#2F9FD0] hover:underline">Email</a>
+        <a href="https://github.com/zachleigh" class="text-[#2F9FD0] hover:underline">GitHub</a>
     </div>
 </section>
 
