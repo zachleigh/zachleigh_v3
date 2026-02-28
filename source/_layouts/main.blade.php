@@ -6,6 +6,7 @@
         <link rel="canonical" href="{{ $page->getUrl() }}">
         <meta name="description" content="{{ $page->description ?? $page->siteDescription }}">
         <title>{{ $page->title ? $page->title . ' — ' . $page->siteName : $page->siteName }}</title>
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg">
         @viteRefresh()
         <link rel="stylesheet" href="{{ vite('source/_assets/css/main.css') }}">
         <script defer type="module" src="{{ vite('source/_assets/js/main.js') }}"></script>
